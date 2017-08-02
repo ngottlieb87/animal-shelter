@@ -1,0 +1,33 @@
+img {
+  width: 99%;
+  padding-left: 1px;
+
+}
+body{
+  background-color: #3f3822;
+  color: #d6d3cb;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  font-family: 'Pacifico';
+}
+.column{
+  width: 290px;
+  display: inline-block;
+  float: top;
+  text-align: left;
+  font-size: 18px;
+  font-family: sans-serif;
+  padding: 10px;
+}
+
+#brown1{
+  background-color: #ba9c6b;
+}
+#brown2{
+  background-color: #998058;
+}
+#brown3{
+  background-color: #6d5d42;
+}
