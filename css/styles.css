@@ -4,9 +4,12 @@ img {
 
 }
 body{
-  background-color: #3f3822;
-  color: #d6d3cb;
+  background-color: #0f8e8e;
+  color: #22ffff;
   text-align: center;
+}
+body h1{
+  font-family: 'Pacifico', cursive;
 }
 h2 {
   text-align: center;
@@ -20,15 +23,16 @@ h2 {
   font-size: 18px;
   font-family: sans-serif;
   padding: 10px;
+  border: 2px solid #5ffcd2;
 }
 #brown1{
   background-color: #ba9c6b;
 }
 #brown2{
-  background-color: #998058;
+  background-color: #ba9c6b;
 }
 #brown3{
-  background-color: #6d5d42;
+  background-color: #ba9c6b;
 }
 @media screen and (max-width:880px) and (min-width: 400px) {
   body {
