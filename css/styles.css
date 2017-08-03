@@ -30,17 +30,10 @@ h2 {
 #brown3{
   background-color: #6d5d42;
 }
-@media screen and (max-width:868px) {
+@media screen and (max-width:880px) and (min-width: 400px) {
   body {
     background-color: lightblue;
     color: white;
     font-family: 'Pacifico', cursive;
-  }
-}
-@media screen and (max-width:434px) {
-  body {
-    background-color: teal;
-    color: red;
-    font-family: helvetica, cursive;
   }
 }
