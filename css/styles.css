@@ -21,7 +21,6 @@ h2 {
   font-family: sans-serif;
   padding: 10px;
 }
-
 #brown1{
   background-color: #ba9c6b;
 }
@@ -30,4 +29,18 @@ h2 {
 }
 #brown3{
   background-color: #6d5d42;
+}
+@media screen and (max-width:868px) {
+  body {
+    background-color: lightblue;
+    color: white;
+    font-family: 'Pacifico', cursive;
+  }
+}
+@media screen and (max-width:434px) {
+  body {
+    background-color: teal;
+    color: red;
+    font-family: helvetica, cursive;
+  }
 }
